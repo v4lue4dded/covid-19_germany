@@ -294,6 +294,10 @@ data_stringency_export = data_stringency_agg
 ## export data ##################################################################################################################
 #################################################################################################################################
 
+f = open("date.txt", "w")
+f.write(dt.datetime.now().strftime("%d/%m/%Y %H:%M:%S"))
+f.close()
+
 
 print('data_rki_export:'       , power_bi_type_cast(data_rki_export       ),data_rki_export       .shape)
 print('data_geo_time:'         , power_bi_type_cast(data_geo_time         ),data_geo_time         .shape)
