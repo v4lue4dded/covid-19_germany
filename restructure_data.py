@@ -103,9 +103,10 @@ value_vars = [
       'AnzahlFall'
     , 'AnzahlTodesfall'
     , 'AnzahlGenesen'
-    , 'AnzahlAktiv'
 ]
 
+data_rki.columns
+data_rki.columns
 data_rki_agg = data_rki \
     .loc[:, rki_pk_vars + value_vars] \
     .groupby(rki_pk_vars) \
@@ -119,7 +120,8 @@ data_rki_agg = data_rki \
     ) \
     .melt(
       id_vars    = rki_pk_vars
-    , value_vars = value_vars
+    , value_vars = value_vars + ['AnzahlAktiv']
+
     , var_name   = 'Status'
     , value_name = 'Anzahl'
     ) \
