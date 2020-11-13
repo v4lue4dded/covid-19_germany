@@ -68,14 +68,13 @@ def power_bi_type_cast(df):
 data_stringency = pd.read_csv('https://raw.githubusercontent.com/OxCGRT/covid-policy-tracker/master/data/OxCGRT_latest.csv')
 data_rki        = pd.read_csv('https://www.arcgis.com/sharing/rest/content/items/f10774f1c63e40168479a1feb6c7ca74/data')
 
-
-data_mobility   = pd.read_csv('K:/repos/covid_19_germany/2020_DE_Region_Mobility_Report.csv')
-data_bl_mapping = pd.read_csv('K:/repos/covid_19_germany/IdBundesland_iso.txt', sep = '\t', encoding = 'latin_1')
-data_kreise_cat = pd.read_csv('K:/repos/covid_19_germany/kreise_category.txt', sep = '\t', encoding = 'latin_1') \
+data_mobility   = pd.read_csv('2020_DE_Region_Mobility_Report.csv')
+data_bl_mapping = pd.read_csv('IdBundesland_iso.txt', sep = '\t', encoding = 'latin_1')
+data_kreise_cat = pd.read_csv('kreise_category.txt', sep = '\t', encoding = 'latin_1') \
     .assign(
         kreis_id = lambda x: x.kreis_id.apply(lambda v: str(v).rjust(5,'0'))
     )
-data_kreise     = pd.read_csv('K:/repos/covid_19_germany/kreise.txt', sep = '\t', encoding = 'latin_1') \
+data_kreise     = pd.read_csv('kreise.txt', sep = '\t', encoding = 'latin_1') \
     .assign(
         rs = lambda x: x.rs.apply(lambda v: str(v).rjust(5,'0'))
     )
