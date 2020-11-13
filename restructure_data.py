@@ -304,13 +304,12 @@ print('data_stringency_export:', power_bi_type_cast(data_stringency_export),data
 
 
 
-data_rki_export.loc[lambda df: (df.Anzahl != 0)].to_csv("data_rki.tsv"       , index = False, sep = '\t', encoding='utf-8-sig')
-data_geo_time         .to_csv("data_geo_time.tsv"  , index = False, sep = '\t', encoding='utf-8-sig')
-data_time             .to_csv("data_time.tsv"      , index = False, sep = '\t', encoding='utf-8-sig')
-data_geo              .to_csv("data_geo.tsv"       , index = False, sep = '\t', encoding='utf-8-sig')
-data_mobility_export  .to_csv("data_mobility.tsv"  , index = False, sep = '\t', encoding='utf-8-sig')
-data_stringency_export.to_csv("data_stringency.tsv", index = False, sep = '\t', encoding='utf-8-sig')
-
+data_rki_export.loc[lambda df: (df.Anzahl != 0)].to_csv("data_rki.tsv"       , index = False, sep = '\t', encoding='utf-8-sig', line_terminator='\r\n')
+data_geo_time                                   .to_csv("data_geo_time.tsv"  , index = False, sep = '\t', encoding='utf-8-sig', line_terminator='\r\n')
+data_time                                       .to_csv("data_time.tsv"      , index = False, sep = '\t', encoding='utf-8-sig', line_terminator='\r\n')
+data_geo                                        .to_csv("data_geo.tsv"       , index = False, sep = '\t', encoding='utf-8-sig', line_terminator='\r\n')
+data_mobility_export                            .to_csv("data_mobility.tsv"  , index = False, sep = '\t', encoding='utf-8-sig', line_terminator='\r\n')
+data_stringency_export                          .to_csv("data_stringency.tsv", index = False, sep = '\t', encoding='utf-8-sig', line_terminator='\r\n')
 
 
 # data_rki_agg.loc[
