@@ -8,7 +8,7 @@ git status
 git pull
 git submodule update --remote
 git status
-python restructure_data.py
+/data/tools/anaconda3/bin/python restructure_data.py
 git status
 git add date.txt
 git add data_rki.tsv
