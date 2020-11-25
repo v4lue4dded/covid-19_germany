@@ -156,13 +156,23 @@ data_geo = data_rki_agg \
     .assign(ones = 1) \
     .drop(columns = ['rs', 'kreis_id', 'krs17'])
     
-data_time =  pd.date_range(start=min(data_rki_agg.Meldedatum), end=max(data_rki_agg.Meldedatum)) \
+
+min_Datum = min(data_rki_agg.Meldedatum)     
+max_Datum = max(data_rki_agg.Meldedatum)     
+ 
+data_time =  pd.date_range(start=min_Datum, end=max_Datum) \
     .to_frame(name = 'Datum') \
     .reset_index() \
     .drop(columns = ['index']) \
     .assign(
         id_time = lambda x: x.index
       , ones = 1
+      , time_cat = lambda x: \
+        np.where(x.Datum < dt.datetime(2020, 3, 1), '1: vor März',
+        np.where(x.Datum < dt.datetime(2020, 6, 1), '2: März - Mai',
+        np.where(x.Datum < dt.datetime(2020,10, 1), '3: Juni - September',
+        np.where(x.Datum < max_Datum - dt.timedelta(days= 6), '4: Oktober - vor einer Woche', '5: letze Woche'
+        ))))
     )    
 
 data_geo_time_prep = data_geo \
