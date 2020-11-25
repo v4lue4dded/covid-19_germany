@@ -168,11 +168,12 @@ data_time =  pd.date_range(start=min_Datum, end=max_Datum) \
         id_time = lambda x: x.index
       , ones = 1
       , time_cat = lambda x: \
-        np.where(x.Datum < dt.datetime(2020, 3, 1), '1: vor März',
+        np.where(x.Datum < dt.datetime(2020, 3, 1), '1: Bis Februar',
         np.where(x.Datum < dt.datetime(2020, 6, 1), '2: März - Mai',
         np.where(x.Datum < dt.datetime(2020,10, 1), '3: Juni - September',
-        np.where(x.Datum < max_Datum - dt.timedelta(days= 6), '4: Oktober - vor einer Woche', '5: letze Woche'
-        ))))
+        np.where(x.Datum < max_Datum - dt.timedelta(days= 20), '4: Oktober - vor 3 Wochen'
+        np.where(x.Datum < max_Datum - dt.timedelta(days= 6), 'vor 3 Wochen - vor 1er Woche', '5: letze Woche'
+        )))))
     )    
 
 data_geo_time_prep = data_geo \
@@ -310,6 +311,11 @@ f.write(dt.datetime.now().strftime("%d/%m/%Y %H:%M:%S"))
 f.close()
 
 
+data_max_date = pd.DataFrame({'max_date': [max_Datum]})
+
+
+
+print('data_max_date:'         , power_bi_type_cast(data_max_date         ),data_max_date         .shape)
 print('data_rki_export:'       , power_bi_type_cast(data_rki_export       ),data_rki_export       .shape)
 print('data_geo_time:'         , power_bi_type_cast(data_geo_time         ),data_geo_time         .shape)
 print('data_time:'             , power_bi_type_cast(data_time             ),data_time             .shape)
@@ -319,6 +325,7 @@ print('data_stringency_export:', power_bi_type_cast(data_stringency_export),data
 
 
 
+data_max_date                                   .to_csv("data_max_date.tsv"  , index = False, sep = '\t', encoding='utf-8-sig', line_terminator='\r\n')
 data_rki_export.loc[lambda df: (df.Anzahl != 0)].to_csv("data_rki.tsv"       , index = False, sep = '\t', encoding='utf-8-sig', line_terminator='\r\n')
 data_geo_time                                   .to_csv("data_geo_time.tsv"  , index = False, sep = '\t', encoding='utf-8-sig', line_terminator='\r\n')
 data_time                                       .to_csv("data_time.tsv"      , index = False, sep = '\t', encoding='utf-8-sig', line_terminator='\r\n')
