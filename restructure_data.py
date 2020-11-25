@@ -68,7 +68,7 @@ def power_bi_type_cast(df):
 
 data_stringency = pd.read_csv('https://raw.githubusercontent.com/OxCGRT/covid-policy-tracker/master/data/OxCGRT_latest.csv')
 data_rki        = pd.read_csv('https://www.arcgis.com/sharing/rest/content/items/f10774f1c63e40168479a1feb6c7ca74/data')
-
+data_rki.to_csv("source_data_rki.tsv"  , index = False, sep = '\t', encoding='utf-8-sig', line_terminator='\r\n')
 data_mobility   = pd.read_csv('2020_DE_Region_Mobility_Report.csv')
 data_bl_mapping = pd.read_csv('IdBundesland_iso.txt', sep = '\t', encoding = 'latin_1')
 data_kreise_cat = pd.read_csv('kreise_category.txt', sep = '\t', encoding = 'latin_1') \
@@ -171,7 +171,7 @@ data_time =  pd.date_range(start=min_Datum, end=max_Datum) \
         np.where(x.Datum < dt.datetime(2020, 3, 1), '1: Bis Februar',
         np.where(x.Datum < dt.datetime(2020, 6, 1), '2: März - Mai',
         np.where(x.Datum < dt.datetime(2020,10, 1), '3: Juni - September',
-        np.where(x.Datum < max_Datum - dt.timedelta(days= 20), '4: Oktober - vor 3 Wochen'
+        np.where(x.Datum < max_Datum - dt.timedelta(days= 20), '4: Oktober - vor 3 Wochen',
         np.where(x.Datum < max_Datum - dt.timedelta(days= 6), 'vor 3 Wochen - vor 1er Woche', '5: letze Woche'
         )))))
     )    
