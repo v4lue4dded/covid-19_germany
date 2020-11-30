@@ -12,7 +12,7 @@ git status
 git status
 git add date.txt
 git add source_data_rki.tsv
-git add max_date.txt
+git add data_max_date.tsv
 git add data_rki.tsv
 git add data_geo_time.tsv
 git add data_time.tsv
