@@ -117,7 +117,7 @@ data_rki_agg = data_rki \
         IdLandkreis  = lambda x: x.IdLandkreis.apply(lambda v: str(v).rjust(5,'0'))
       , Landkreis    = lambda x: x.Landkreis.replace({
           'LK Göttingen (alt)': 'LK Göttingen',
-          'LK Aachen'         : 'StadtRegion Aachen'
+        #   'LK Aachen'         : 'StadtRegion Aachen'
         }) 
       , Meldedatum   = lambda x: x.Meldedatum.apply(lambda v: datetime.datetime.strptime(v, '%Y/%m/%d %H:%M:%S'))
       , AnzahlAktiv  = lambda x: x.AnzahlFall.fillna(0) - x.AnzahlTodesfall.fillna(0) - x.AnzahlGenesen.fillna(0)
