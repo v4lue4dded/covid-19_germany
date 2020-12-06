@@ -1,0 +1,413 @@
+﻿IdBundesland	Bundesland	IdLandkreis	Landkreis	population	krs17_name	fl17	bev17	kbez	kbez.1	ktyp4	ktyp4_name	slraum	slraum_name	raumt2010lage_kreis	raumt2010lage_kreis_name	rtyp3	rtyp3_name	WO	WO_name	ones
+1	Schleswig-Holstein	01001	SK Flensburg	90164	Flensburg, Stadt	56.74	88519	41	Kreisfreie Stadt	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	2	zentral	3	Ländliche Region	1	Westdeutschland	1
+1	Schleswig-Holstein	01002	SK Kiel	246794	Kiel, Stadt	118.65	247943	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+1	Schleswig-Holstein	01003	SK Lübeck	216530	Lübeck, Stadt	214.21	216318	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+1	Schleswig-Holstein	01004	SK Neumünster	80196	Neumünster, Stadt	71.63	79335	41	Kreisfreie Stadt	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+1	Schleswig-Holstein	01051	LK Dithmarschen	133193	Dithmarschen	1428.17	133447	43	Kreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	4	sehr peripher	3	Ländliche Region	1	Westdeutschland	1
+1	Schleswig-Holstein	01053	LK Herzogtum Lauenburg	198019	Herzogtum Lauenburg	1263.06	196074	43	Kreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+1	Schleswig-Holstein	01054	LK Nordfriesland	165951	Nordfriesland	2082.97	165462	43	Kreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	4	sehr peripher	3	Ländliche Region	1	Westdeutschland	1
+1	Schleswig-Holstein	01055	LK Ostholstein	200539	Ostholstein	1392.58	200584	43	Kreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+1	Schleswig-Holstein	01056	LK Pinneberg	316103	Pinneberg	664.28	312662	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+1	Schleswig-Holstein	01057	LK Plön	128686	Plön	1083.18	128842	43	Kreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+1	Schleswig-Holstein	01058	LK Rendsburg-Eckernförde	274098	Rendsburg-Eckernförde	2189.26	273022	43	Kreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+1	Schleswig-Holstein	01059	LK Schleswig-Flensburg	201156	Schleswig-Flensburg	2071.13	199503	43	Kreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland	1
+1	Schleswig-Holstein	01060	LK Segeberg	277175	Segeberg	1344.4	274025	43	Kreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+1	Schleswig-Holstein	01061	LK Steinburg	131013	Steinburg	1055.7	131613	43	Kreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	2	zentral	3	Ländliche Region	1	Westdeutschland	1
+1	Schleswig-Holstein	01062	LK Stormarn	244156	Stormarn	766.32	242472	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+2	Hamburg	02000	SK Hamburg	1847253	Hamburg, Stadt	755.3	1830584	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+3	Niedersachsen	03101	SK Braunschweig	249406	Braunschweig, Stadt	192.7	248023	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+3	Niedersachsen	03102	SK Salzgitter	104291	Salzgitter, Stadt	224.49	104548	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+3	Niedersachsen	03103	SK Wolfsburg	124371	Wolfsburg, Stadt	204.61	123914	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+3	Niedersachsen	03151	LK Gifhorn	176523	Gifhorn	1567.58	175079	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+3	Niedersachsen	03153	LK Goslar	136292	Goslar	966.74	137563	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+3	Niedersachsen	03154	LK Helmstedt	91297	Helmstedt	676.11	91720	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+3	Niedersachsen	03155	LK Northeim	132285	Northeim	1268.76	133046	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+3	Niedersachsen	03157	LK Peine	134801	Peine	536.5	133368	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+3	Niedersachsen	03158	LK Wolfenbüttel	119622	Wolfenbüttel	724.29	120437	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+3	Niedersachsen	03159	LK Göttingen	326041	Göttingen	1755.53	328036	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+3	Niedersachsen	03241	Region Hannover	1157115	Region Hannover	2297.13	1152675	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+3	Niedersachsen	03251	LK Diepholz	217089	Diepholz	1990.97	216012	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+3	Niedersachsen	03252	LK Hameln-Pyrmont	148549	Hameln-Pyrmont	797.53	148296	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+3	Niedersachsen	03254	LK Hildesheim	275817	Hildesheim	1208.35	276640	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+3	Niedersachsen	03255	LK Holzminden	70458	Holzminden	694.24	71144	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+3	Niedersachsen	03256	LK Nienburg (Weser)	121390	Nienburg (Weser)	1400.79	121470	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	1	Städtische Region	1	Westdeutschland	1
+3	Niedersachsen	03257	LK Schaumburg	157820	Schaumburg	675.69	157883	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	1	Städtische Region	1	Westdeutschland	1
+3	Niedersachsen	03351	LK Celle	179011	Celle	1550.82	178764	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland	1
+3	Niedersachsen	03352	LK Cuxhaven	198038	Cuxhaven	2058.97	198100	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+3	Niedersachsen	03353	LK Harburg	254431	Harburg	1248.57	251511	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	3	Ländliche Region	1	Westdeutschland	1
+3	Niedersachsen	03354	LK Lüchow-Dannenberg	48412	Lüchow-Dannenberg	1227.28	48357	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	4	sehr peripher	3	Ländliche Region	1	Westdeutschland	1
+3	Niedersachsen	03355	LK Lüneburg	184139	Lüneburg	1327.68	182930	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	2	zentral	3	Ländliche Region	1	Westdeutschland	1
+3	Niedersachsen	03356	LK Osterholz	113928	Osterholz	652.67	113105	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+3	Niedersachsen	03357	LK Rotenburg (Wümme)	163782	Rotenburg (Wümme)	2074.79	163377	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland	1
+3	Niedersachsen	03358	LK Heidekreis	140673	Heidekreis	1881.4	139099	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland	1
+3	Niedersachsen	03359	LK Stade	204512	Stade	1267.4	201887	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland	1
+3	Niedersachsen	03360	LK Uelzen	92389	Uelzen	1462.61	92744	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland	1
+3	Niedersachsen	03361	LK Verden	137133	Verden	789.4	136590	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+3	Niedersachsen	03401	SK Delmenhorst	77559	Delmenhorst, Stadt	62.45	77521	41	Kreisfreie Stadt	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+3	Niedersachsen	03402	SK Emden	49913	Emden, Stadt	112.34	50607	41	Kreisfreie Stadt	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+3	Niedersachsen	03403	SK Oldenburg	169077	Oldenburg (Oldenburg), Stadt	103.09	167081	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+3	Niedersachsen	03404	SK Osnabrück	165251	Osnabrück, Stadt	119.8	164374	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+3	Niedersachsen	03405	SK Wilhelmshaven	76089	Wilhelmshaven, Stadt	107.07	76316	41	Kreisfreie Stadt	2	Städtischer Kreis	1	Städtischer Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+3	Niedersachsen	03451	LK Ammerland	124859	Ammerland	730.56	123377	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+3	Niedersachsen	03452	LK Aurich	189694	Aurich	1287.34	189949	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+3	Niedersachsen	03453	LK Cloppenburg	170682	Cloppenburg	1420.42	167925	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+3	Niedersachsen	03454	LK Emsland	326954	Emsland	2883.67	323636	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland	1
+3	Niedersachsen	03455	LK Friesland	98704	Friesland	609.54	98509	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+3	Niedersachsen	03456	LK Grafschaft Bentheim	137162	Grafschaft Bentheim	981.81	135859	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	2	zentral	3	Ländliche Region	1	Westdeutschland	1
+3	Niedersachsen	03457	LK Leer	170756	Leer	1085.69	168946	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+3	Niedersachsen	03458	LK Oldenburg	130890	Oldenburg	1064.83	129924	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+3	Niedersachsen	03459	LK Osnabrück	358080	Osnabrück	2121.81	356140	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+3	Niedersachsen	03460	LK Vechta	142814	Vechta	814.2	140540	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+3	Niedersachsen	03461	LK Wesermarsch	88583	Wesermarsch	824.76	89022	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+3	Niedersachsen	03462	LK Wittmund	56926	Wittmund	656.83	56731	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+4	Bremen	04011	SK Bremen	567559	Bremen, Stadt	326.18	568006	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+4	Bremen	04012	SK Bremerhaven	113643	Bremerhaven, Stadt	93.66	113026	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+5	Nordrhein-Westfalen	05111	SK Düsseldorf	621877	Düsseldorf, Stadt	217.41	617280	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+5	Nordrhein-Westfalen	05112	SK Duisburg	498686	Duisburg, Stadt	232.8	498110	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+5	Nordrhein-Westfalen	05113	SK Essen	582760	Essen, Stadt	210.34	583393	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+5	Nordrhein-Westfalen	05114	SK Krefeld	227417	Krefeld, Stadt	137.77	226699	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+5	Nordrhein-Westfalen	05116	SK Mönchengladbach	261034	Mönchengladbach, Stadt	170.47	262188	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+5	Nordrhein-Westfalen	05117	SK Mülheim a.d.Ruhr	170632	Mülheim an der Ruhr, Stadt	91.28	171265	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+5	Nordrhein-Westfalen	05119	SK Oberhausen	210764	Oberhausen, Stadt	77.09	211422	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+5	Nordrhein-Westfalen	05120	SK Remscheid	111338	Remscheid, Stadt	74.52	110584	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+5	Nordrhein-Westfalen	05122	SK Solingen	159245	Solingen, Stadt	89.54	158803	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+5	Nordrhein-Westfalen	05124	SK Wuppertal	355100	Wuppertal, Stadt	168.39	353590	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+5	Nordrhein-Westfalen	05154	LK Kleve	312465	Kleve	1233.0	311270	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+5	Nordrhein-Westfalen	05158	LK Mettmann	485570	Mettmann	407.21	485409	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+5	Nordrhein-Westfalen	05162	LK Rhein-Kreis Neuss	451730	Rhein-Kreis Neuss	576.42	449408	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+5	Nordrhein-Westfalen	05166	LK Viersen	298863	Viersen	563.27	298733	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+5	Nordrhein-Westfalen	05170	LK Wesel	459976	Wesel	1042.81	460666	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+5	Nordrhein-Westfalen	05314	SK Bonn	329673	Bonn, Stadt	141.06	325490	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+5	Nordrhein-Westfalen	05315	SK Köln	1087863	Köln, Stadt	405.02	1080394	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+5	Nordrhein-Westfalen	05316	SK Leverkusen	163729	Leverkusen, Stadt	78.87	163577	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+5	Nordrhein-Westfalen	05334	StadtRegion Aachen	557026	Städteregion Aachen	706.84	554068	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+5	Nordrhein-Westfalen	05358	LK Düren	264638	Düren	941.78	262889	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+5	Nordrhein-Westfalen	05362	LK Rhein-Erft-Kreis	470615	Rhein-Erft-Kreis	704.7	467209	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+5	Nordrhein-Westfalen	05366	LK Euskirchen	193656	Euskirchen	1248.72	192127	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+5	Nordrhein-Westfalen	05370	LK Heinsberg	255555	Heinsberg	627.99	253106	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+5	Nordrhein-Westfalen	05374	LK Oberbergischer Kreis	272057	Oberbergischer Kreis	918.84	272968	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+5	Nordrhein-Westfalen	05378	LK Rheinisch-Bergischer Kreis	283271	Rheinisch-Bergischer Kreis	437.32	283344	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+5	Nordrhein-Westfalen	05382	LK Rhein-Sieg-Kreis	600764	Rhein-Sieg-Kreis	1153.21	599056	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+5	Nordrhein-Westfalen	05512	SK Bottrop	117565	Bottrop, Stadt	100.61	117364	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+5	Nordrhein-Westfalen	05513	SK Gelsenkirchen	259645	Gelsenkirchen, Stadt	104.94	260305	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+5	Nordrhein-Westfalen	05515	SK Münster	315293	Münster, Stadt	303.28	313559	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+5	Nordrhein-Westfalen	05554	LK Borken	371339	Borken	1420.96	369718	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+5	Nordrhein-Westfalen	05558	LK Coesfeld	220586	Coesfeld	1112.03	219360	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+5	Nordrhein-Westfalen	05562	LK Recklinghausen	614137	Recklinghausen	761.32	616824	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+5	Nordrhein-Westfalen	05566	LK Steinfurt	448220	Steinfurt	1795.76	446565	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+5	Nordrhein-Westfalen	05570	LK Warendorf	277840	Warendorf	1319.42	277458	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+5	Nordrhein-Westfalen	05711	SK Bielefeld	334195	Bielefeld, Stadt	258.82	332552	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+5	Nordrhein-Westfalen	05754	LK Gütersloh	364938	Gütersloh	969.21	363049	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+5	Nordrhein-Westfalen	05758	LK Herford	250578	Herford	450.41	251539	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+5	Nordrhein-Westfalen	05762	LK Höxter	140251	Höxter	1201.42	141565	43	Kreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+5	Nordrhein-Westfalen	05766	LK Lippe	347514	Lippe	1246.19	349069	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	1	Städtische Region	1	Westdeutschland	1
+5	Nordrhein-Westfalen	05770	LK Minden-Lübbecke	310409	Minden-Lübbecke	1152.41	311207	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	1	Städtische Region	1	Westdeutschland	1
+5	Nordrhein-Westfalen	05774	LK Paderborn	307839	Paderborn	1246.78	305362	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+5	Nordrhein-Westfalen	05911	SK Bochum	365587	Bochum, Stadt	145.66	365529	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+5	Nordrhein-Westfalen	05913	SK Dortmund	588250	Dortmund, Stadt	280.71	586600	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+5	Nordrhein-Westfalen	05914	SK Hagen	188686	Hagen, Stadt	160.45	187730	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+5	Nordrhein-Westfalen	05915	SK Hamm	179916	Hamm, Stadt	226.43	179185	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+5	Nordrhein-Westfalen	05916	SK Herne	156449	Herne, Stadt	51.42	156490	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+5	Nordrhein-Westfalen	05954	LK Ennepe-Ruhr-Kreis	324106	Ennepe-Ruhr-Kreis	409.64	324670	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+5	Nordrhein-Westfalen	05958	LK Hochsauerlandkreis	259777	Hochsauerlandkreis	1960.15	261591	43	Kreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+5	Nordrhein-Westfalen	05962	LK Märkischer Kreis	410222	Märkischer Kreis	1061.08	413383	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+5	Nordrhein-Westfalen	05966	LK Olpe	133955	Olpe	712.14	134808	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+5	Nordrhein-Westfalen	05970	LK Siegen-Wittgenstein	276944	Siegen-Wittgenstein	1132.89	277977	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+5	Nordrhein-Westfalen	05974	LK Soest	301785	Soest	1328.62	301693	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+5	Nordrhein-Westfalen	05978	LK Unna	394891	Unna	543.21	393934	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+6	Hessen	06411	SK Darmstadt	159878	Darmstadt, Stadt	122.09	158254	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+6	Hessen	06412	SK Frankfurt am Main	763380	Frankfurt am Main, Stadt	248.31	746878	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+6	Hessen	06413	SK Offenbach	130280	Offenbach am Main, Stadt	44.89	126658	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+6	Hessen	06414	SK Wiesbaden	278474	Wiesbaden, Stadt	203.93	278654	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+6	Hessen	06431	LK Bergstraße	270340	Bergstraße	719.51	268780	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+6	Hessen	06432	LK Darmstadt-Dieburg	297844	Darmstadt-Dieburg	658.63	296048	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+6	Hessen	06433	LK Groß-Gerau	275726	Groß-Gerau	453.03	271403	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+6	Hessen	06434	LK Hochtaunuskreis	236914	Hochtaunuskreis	482.0	235995	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+6	Hessen	06435	LK Main-Kinzig-Kreis	420552	Main-Kinzig-Kreis	1397.55	418208	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+6	Hessen	06436	LK Main-Taunus-Kreis	238558	Main-Taunus-Kreis	222.39	236969	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+6	Hessen	06437	LK Odenwaldkreis	96703	Odenwaldkreis	623.97	96597	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	1	Städtische Region	1	Westdeutschland	1
+6	Hessen	06438	LK Offenbach	355813	Offenbach	356.29	351692	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+6	Hessen	06439	LK Rheingau-Taunus-Kreis	187160	Rheingau-Taunus-Kreis	811.48	186602	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	1	Städtische Region	1	Westdeutschland	1
+6	Hessen	06440	LK Wetteraukreis	308339	Wetteraukreis	1100.69	305312	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+6	Hessen	06531	LK Gießen	270688	Gießen	854.66	267056	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	3	Ländliche Region	1	Westdeutschland	1
+6	Hessen	06532	LK Lahn-Dill-Kreis	253319	Lahn-Dill-Kreis	1066.53	254164	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	3	Ländliche Region	1	Westdeutschland	1
+6	Hessen	06533	LK Limburg-Weilburg	171912	Limburg-Weilburg	738.46	171971	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	3	Ländliche Region	1	Westdeutschland	1
+6	Hessen	06534	LK Marburg-Biedenkopf	247084	Marburg-Biedenkopf	1262.54	246165	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	3	Ländliche Region	1	Westdeutschland	1
+6	Hessen	06535	LK Vogelsbergkreis	105643	Vogelsbergkreis	1458.99	106451	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland	1
+6	Hessen	06611	SK Kassel	202137	Kassel, Stadt	106.78	200736	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+6	Hessen	06631	LK Fulda	223145	Fulda	1380.48	221783	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland	1
+6	Hessen	06632	LK Hersfeld-Rotenburg	120719	Hersfeld-Rotenburg	1097.09	121101	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland	1
+6	Hessen	06633	LK Kassel	236764	Kassel	1292.92	236674	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+6	Hessen	06634	LK Schwalm-Eder-Kreis	179673	Schwalm-Eder-Kreis	1538.49	180754	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+6	Hessen	06635	LK Waldeck-Frankenberg	156406	Waldeck-Frankenberg	1848.44	157256	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+6	Hessen	06636	LK Werra-Meißner-Kreis	100629	Werra-Meißner-Kreis	1024.69	101101	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+7	Rheinland-Pfalz	07111	SK Koblenz	114052	Koblenz, Stadt	105.25	113844	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+7	Rheinland-Pfalz	07131	LK Ahrweiler	130086	Ahrweiler	787.02	128914	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+7	Rheinland-Pfalz	07132	LK Altenkirchen	128805	Altenkirchen (Westerwald)	642.37	128791	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+7	Rheinland-Pfalz	07133	LK Bad Kreuznach	158345	Bad Kreuznach	863.89	157549	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+7	Rheinland-Pfalz	07134	LK Birkenfeld	80951	Birkenfeld	776.83	80728	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+7	Rheinland-Pfalz	07135	LK Cochem-Zell	61375	Cochem-Zell	692.46	61662	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+7	Rheinland-Pfalz	07137	LK Mayen-Koblenz	214434	Mayen-Koblenz	817.69	213554	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+7	Rheinland-Pfalz	07138	LK Neuwied	182811	Neuwied	627.04	181655	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+7	Rheinland-Pfalz	07140	LK Rhein-Hunsrück-Kreis	103163	Rhein-Hunsrück-Kreis	991.07	102938	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+7	Rheinland-Pfalz	07141	LK Rhein-Lahn-Kreis	122297	Rhein-Lahn-Kreis	782.19	122381	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+7	Rheinland-Pfalz	07143	LK Westerwaldkreis	201904	Westerwaldkreis	989.06	201039	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+7	Rheinland-Pfalz	07211	SK Trier	111528	Trier, Stadt	117.06	110013	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	2	zentral	3	Ländliche Region	1	Westdeutschland	1
+7	Rheinland-Pfalz	07231	LK Bernkastel-Wittlich	112483	Bernkastel-Wittlich	1167.93	112134	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland	1
+7	Rheinland-Pfalz	07232	LK Bitburg-Prüm	99058	Eifelkreis Bitburg-Prüm	1626.96	98213	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland	1
+7	Rheinland-Pfalz	07233	LK Vulkaneifel	60646	Vulkaneifel	911.65	60705	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland	1
+7	Rheinland-Pfalz	07235	LK Trier-Saarburg	149398	Trier-Saarburg	1102.19	148532	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland	1
+7	Rheinland-Pfalz	07311	SK Frankenthal	48762	Frankenthal (Pfalz), Stadt	43.88	48417	41	Kreisfreie Stadt	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+7	Rheinland-Pfalz	07312	SK Kaiserslautern	100030	Kaiserslautern, Stadt	139.7	99684	41	Kreisfreie Stadt	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+7	Rheinland-Pfalz	07313	SK Landau i.d.Pfalz	46881	Landau in der Pfalz, Stadt	82.94	46292	41	Kreisfreie Stadt	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+7	Rheinland-Pfalz	07314	SK Ludwigshafen	172253	Ludwigshafen am Rhein, Stadt	77.43	168497	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+7	Rheinland-Pfalz	07315	SK Mainz	218578	Mainz, Stadt	97.73	215110	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+7	Rheinland-Pfalz	07316	SK Neustadt a.d.Weinstraße	53264	Neustadt an der Weinstraße, Stadt	117.09	53353	41	Kreisfreie Stadt	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+7	Rheinland-Pfalz	07317	SK Pirmasens	40231	Pirmasens, Stadt	61.36	40632	41	Kreisfreie Stadt	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+7	Rheinland-Pfalz	07318	SK Speyer	50561	Speyer, Stadt	42.71	50931	41	Kreisfreie Stadt	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+7	Rheinland-Pfalz	07319	SK Worms	83542	Worms, Stadt	108.73	83081	41	Kreisfreie Stadt	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+7	Rheinland-Pfalz	07320	SK Zweibrücken	34193	Zweibrücken, Stadt	70.64	34270	41	Kreisfreie Stadt	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+7	Rheinland-Pfalz	07331	LK Alzey-Worms	129687	Alzey-Worms	588.07	128519	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+7	Rheinland-Pfalz	07332	LK Bad Dürkheim	132671	Bad Dürkheim	594.61	132739	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+7	Rheinland-Pfalz	07333	LK Donnersbergkreis	75325	Donnersbergkreis	645.43	75102	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+7	Rheinland-Pfalz	07334	LK Germersheim	129013	Germersheim	463.32	128477	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	1	Städtische Region	1	Westdeutschland	1
+7	Rheinland-Pfalz	07335	LK Kaiserslautern	105979	Kaiserslautern	639.98	105649	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+7	Rheinland-Pfalz	07336	LK Kusel	70219	Kusel	573.58	70764	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+7	Rheinland-Pfalz	07337	LK Südliche Weinstraße	110521	Südliche Weinstraße	639.97	110622	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	1	Städtische Region	1	Westdeutschland	1
+7	Rheinland-Pfalz	07338	LK Rhein-Pfalz-Kreis	154609	Rhein-Pfalz-Kreis	304.99	153629	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+7	Rheinland-Pfalz	07339	LK Mainz-Bingen	211417	Mainz-Bingen	605.37	209785	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+7	Rheinland-Pfalz	07340	LK Südwestpfalz	94831	Südwestpfalz	953.56	95474	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+8	Baden-Württemberg	08111	SK Stuttgart	635911	Stuttgart, Stadt	207.33	632743	42	Stadtkreis	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+8	Baden-Württemberg	08115	LK Böblingen	392807	Böblingen	617.79	389548	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+8	Baden-Württemberg	08116	LK Esslingen	535024	Esslingen	641.28	532447	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+8	Baden-Württemberg	08117	LK Göppingen	258145	Göppingen	642.33	256345	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	1	Städtische Region	1	Westdeutschland	1
+8	Baden-Württemberg	08118	LK Ludwigsburg	545423	Ludwigsburg	686.75	542630	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+8	Baden-Württemberg	08119	LK Rems-Murr-Kreis	427248	Rems-Murr-Kreis	858.09	424878	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+8	Baden-Württemberg	08121	SK Heilbronn	126592	Heilbronn, Stadt	99.89	125113	42	Stadtkreis	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+8	Baden-Württemberg	08125	LK Heilbronn	344456	Heilbronn	1099.94	340772	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+8	Baden-Württemberg	08126	LK Hohenlohekreis	112655	Hohenlohekreis	776.76	111392	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+8	Baden-Württemberg	08127	LK Schwäbisch Hall	196761	Schwäbisch Hall	1484.07	194203	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+8	Baden-Württemberg	08128	LK Main-Tauber-Kreis	132399	Main-Tauber-Kreis	1304.13	132189	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+8	Baden-Württemberg	08135	LK Heidenheim	132777	Heidenheim	627.11	132006	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+8	Baden-Württemberg	08136	LK Ostalbkreis	314025	Ostalbkreis	1511.36	312422	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+8	Baden-Württemberg	08211	SK Baden-Baden	55185	Baden-Baden, Stadt	140.19	54718	42	Stadtkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	1	Städtische Region	1	Westdeutschland	1
+8	Baden-Württemberg	08212	SK Karlsruhe	312060	Karlsruhe, Stadt	173.42	311919	42	Stadtkreis	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+8	Baden-Württemberg	08215	LK Karlsruhe	445101	Karlsruhe	1085.27	442673	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+8	Baden-Württemberg	08216	LK Rastatt	231420	Rastatt	738.42	230216	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	1	Städtische Region	1	Westdeutschland	1
+8	Baden-Württemberg	08221	SK Heidelberg	161485	Heidelberg, Stadt	108.89	160601	42	Stadtkreis	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+8	Baden-Württemberg	08222	SK Mannheim	310658	Mannheim, Stadt	144.97	307997	42	Stadtkreis	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+8	Baden-Württemberg	08225	LK Neckar-Odenwald-Kreis	143633	Neckar-Odenwald-Kreis	1125.95	143376	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	1	Städtische Region	1	Westdeutschland	1
+8	Baden-Württemberg	08226	LK Rhein-Neckar-Kreis	548355	Rhein-Neckar-Kreis	1061.54	546745	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+8	Baden-Württemberg	08231	SK Pforzheim	125957	Pforzheim, Stadt	98.07	124289	42	Stadtkreis	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+8	Baden-Württemberg	08235	LK Calw	159201	Calw	797.31	157424	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+8	Baden-Württemberg	08236	LK Enzkreis	199556	Enzkreis	573.62	198369	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+8	Baden-Württemberg	08237	LK Freudenstadt	118243	Freudenstadt	870.39	117456	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+8	Baden-Württemberg	08311	SK Freiburg i.Breisgau	231195	Freiburg im Breisgau, Stadt	153.04	229636	42	Stadtkreis	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+8	Baden-Württemberg	08315	LK Breisgau-Hochschwarzwald	263601	Breisgau-Hochschwarzwald	1378.31	262405	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+8	Baden-Württemberg	08316	LK Emmendingen	166408	Emmendingen	679.79	164712	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+8	Baden-Württemberg	08317	LK Ortenaukreis	430953	Ortenaukreis	1860.29	425932	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+8	Baden-Württemberg	08325	LK Rottweil	139878	Rottweil	769.44	138858	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+8	Baden-Württemberg	08326	LK Schwarzwald-Baar-Kreis	212506	Schwarzwald-Baar-Kreis	1025.34	211207	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+8	Baden-Württemberg	08327	LK Tuttlingen	140766	Tuttlingen	734.35	139397	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+8	Baden-Württemberg	08335	LK Konstanz	286305	Konstanz	817.97	284015	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+8	Baden-Württemberg	08336	LK Lörrach	228736	Lörrach	806.72	228314	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+8	Baden-Württemberg	08337	LK Waldshut	171003	Waldshut	1131.1	170198	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+8	Baden-Württemberg	08415	LK Reutlingen	287034	Reutlingen	1092.46	285754	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+8	Baden-Württemberg	08416	LK Tübingen	228678	Tübingen	519.14	225755	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+8	Baden-Württemberg	08417	LK Zollernalbkreis	189363	Zollernalbkreis	917.56	188170	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+8	Baden-Württemberg	08421	SK Ulm	126790	Ulm, Stadt	118.68	125596	42	Stadtkreis	1	kreisfreie Großstadt	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+8	Baden-Württemberg	08425	LK Alb-Donau-Kreis	197076	Alb-Donau-Kreis	1358.54	194629	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+8	Baden-Württemberg	08426	LK Biberach	201282	Biberach	1409.49	198265	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+8	Baden-Württemberg	08435	LK Bodenseekreis	217470	Bodenseekreis	664.77	214655	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+8	Baden-Württemberg	08436	LK Ravensburg	285424	Ravensburg	1632.09	283264	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+8	Baden-Württemberg	08437	LK Sigmaringen	130849	Sigmaringen	1204.22	130192	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+9	Bayern	09161	SK Ingolstadt	137392	Ingolstadt, Stadt	133.35	135244	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+9	Bayern	09162	SK München	1484226	München, Stadt	310.71	1456039	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+9	Bayern	09163	SK Rosenheim	63551	Rosenheim, Stadt	37.22	63080	41	Kreisfreie Stadt	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	3	Ländliche Region	1	Westdeutschland	1
+9	Bayern	09171	LK Altötting	111516	Altötting	569.29	110338	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	3	peripher	3	Ländliche Region	1	Westdeutschland	1
+9	Bayern	09172	LK Berchtesgadener Land	105929	Berchtesgadener Land	839.85	105052	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland	1
+9	Bayern	09173	LK Bad Tölz-Wolfratshausen	127917	Bad Tölz-Wolfratshausen	1110.66	126572	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	2	zentral	3	Ländliche Region	1	Westdeutschland	1
+9	Bayern	09174	LK Dachau	154899	Dachau	579.15	152703	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+9	Bayern	09175	LK Ebersberg	143649	Ebersberg	549.39	140800	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+9	Bayern	09176	LK Eichstätt	132881	Eichstätt	1213.86	131646	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+9	Bayern	09177	LK Erding	138182	Erding	870.73	136884	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	1	Städtische Region	1	Westdeutschland	1
+9	Bayern	09178	LK Freising	180007	Freising	799.85	177997	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	1	Städtische Region	1	Westdeutschland	1
+9	Bayern	09179	LK Fürstenfeldbruck	219311	Fürstenfeldbruck	434.83	217831	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+9	Bayern	09180	LK Garmisch-Partenkirchen	88424	Garmisch-Partenkirchen	1012.21	88155	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland	1
+9	Bayern	09181	LK Landsberg a.Lech	120302	Landsberg am Lech	804.37	119141	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	1	Städtische Region	1	Westdeutschland	1
+9	Bayern	09182	LK Miesbach	100010	Miesbach	866.22	99189	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	3	Ländliche Region	1	Westdeutschland	1
+9	Bayern	09183	LK Mühldorf a.Inn	115872	Mühldorf a.Inn	805.36	114486	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland	1
+9	Bayern	09184	LK München	350473	München	664.27	346433	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+9	Bayern	09185	LK Neuburg-Schrobenhausen	97303	Neuburg-Schrobenhausen	739.72	96164	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+9	Bayern	09186	LK Pfaffenhofen a.d.Ilm	128227	Pfaffenhofen a.d.Ilm	761.05	126244	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+9	Bayern	09187	LK Rosenheim	261330	Rosenheim	1439.45	259449	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	3	Ländliche Region	1	Westdeutschland	1
+9	Bayern	09188	LK Starnberg	136667	Starnberg	487.72	135545	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+9	Bayern	09189	LK Traunstein	177319	Traunstein	1533.74	176290	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland	1
+9	Bayern	09190	LK Weilheim-Schongau	135478	Weilheim-Schongau	966.29	134252	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland	1
+9	Bayern	09261	SK Landshut	73411	Landshut, Stadt	65.83	71193	41	Kreisfreie Stadt	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	3	Ländliche Region	1	Westdeutschland	1
+9	Bayern	09262	SK Passau	52803	Passau, Stadt	69.56	51781	41	Kreisfreie Stadt	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland	1
+9	Bayern	09263	SK Straubing	47791	Straubing, Stadt	67.59	47586	41	Kreisfreie Stadt	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland	1
+9	Bayern	09271	LK Deggendorf	119478	Deggendorf	861.15	118741	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland	1
+9	Bayern	09272	LK Freyung-Grafenau	78362	Freyung-Grafenau	983.88	78345	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	4	sehr peripher	3	Ländliche Region	1	Westdeutschland	1
+9	Bayern	09273	LK Kelheim	123058	Kelheim	1065.13	121119	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+9	Bayern	09274	LK Landshut	159895	Landshut	1347.56	157239	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland	1
+9	Bayern	09275	LK Passau	192656	Passau	1530.08	190504	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland	1
+9	Bayern	09276	LK Regen	77410	Regen	974.79	77489	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	4	sehr peripher	3	Ländliche Region	1	Westdeutschland	1
+9	Bayern	09277	LK Rottal-Inn	121502	Rottal-Inn	1281.22	120371	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland	1
+9	Bayern	09278	LK Straubing-Bogen	101120	Straubing-Bogen	1201.64	99838	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland	1
+9	Bayern	09279	LK Dingolfing-Landau	96683	Dingolfing-Landau	877.57	95831	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland	1
+9	Bayern	09361	SK Amberg	42207	Amberg, Stadt	50.13	42248	41	Kreisfreie Stadt	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland	1
+9	Bayern	09362	SK Regensburg	153094	Regensburg, Stadt	80.85	150894	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+9	Bayern	09363	SK Weiden i.d.OPf.	42743	Weiden i.d.OPf., Stadt	70.57	42543	41	Kreisfreie Stadt	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland	1
+9	Bayern	09371	LK Amberg-Sulzbach	103049	Amberg-Sulzbach	1255.84	102836	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland	1
+9	Bayern	09372	LK Cham	127998	Cham	1520.11	127339	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	4	sehr peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+9	Bayern	09373	LK Neumarkt i.d.OPf.	134573	Neumarkt i.d.OPf.	1343.95	132644	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+9	Bayern	09374	LK Neustadt a.d.Waldnaab	94450	Neustadt a.d.Waldnaab	1427.69	94486	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland	1
+9	Bayern	09375	LK Regensburg	194070	Regensburg	1391.71	192200	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+9	Bayern	09376	LK Schwandorf	147872	Schwandorf	1465.09	146487	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland	1
+9	Bayern	09377	LK Tirschenreuth	72046	Tirschenreuth	1084.26	72730	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland	1
+9	Bayern	09461	SK Bamberg	77373	Bamberg, Stadt	54.62	77179	41	Kreisfreie Stadt	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	3	Ländliche Region	1	Westdeutschland	1
+9	Bayern	09462	SK Bayreuth	74783	Bayreuth, Stadt	66.89	73999	41	Kreisfreie Stadt	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	2	zentral	3	Ländliche Region	1	Westdeutschland	1
+9	Bayern	09463	SK Coburg	41072	Coburg, Stadt	48.29	41236	41	Kreisfreie Stadt	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland	1
+9	Bayern	09464	SK Hof	45825	Hof, Stadt	58.02	45950	41	Kreisfreie Stadt	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland	1
+9	Bayern	09471	LK Bamberg	147163	Bamberg	1167.78	146584	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	3	Ländliche Region	1	Westdeutschland	1
+9	Bayern	09472	LK Bayreuth	103664	Bayreuth	1273.62	103805	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland	1
+9	Bayern	09473	LK Coburg	86747	Coburg	590.41	86885	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland	1
+9	Bayern	09474	LK Forchheim	116203	Forchheim	642.82	115681	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	3	Ländliche Region	1	Westdeutschland	1
+9	Bayern	09475	LK Hof	94801	Hof	892.51	95773	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland	1
+9	Bayern	09476	LK Kronach	66743	Kronach	651.5	67474	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland	1
+9	Bayern	09477	LK Kulmbach	71566	Kulmbach	658.33	72012	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland	1
+9	Bayern	09478	LK Lichtenfels	66776	Lichtenfels	519.93	66777	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland	1
+9	Bayern	09479	LK Wunsiedel i.Fichtelgebirge	72655	Wunsiedel i.Fichtelgebirge	606.37	73485	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland	1
+9	Bayern	09561	SK Ansbach	41798	Ansbach, Stadt	99.91	41652	41	Kreisfreie Stadt	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	2	zentral	3	Ländliche Region	1	Westdeutschland	1
+9	Bayern	09562	SK Erlangen	112528	Erlangen, Stadt	76.96	110998	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+9	Bayern	09563	SK Fürth	128497	Fürth, Stadt	63.35	126526	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+9	Bayern	09564	SK Nürnberg	518370	Nürnberg, Stadt	186.45	515201	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+9	Bayern	09565	SK Schwabach	40981	Schwabach, Stadt	40.8	40781	41	Kreisfreie Stadt	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	1	Städtische Region	1	Westdeutschland	1
+9	Bayern	09571	LK Ansbach	184591	Ansbach	1971.31	183256	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland	1
+9	Bayern	09572	LK Erlangen-Höchstadt	137262	Erlangen-Höchstadt	564.54	135334	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	1	Städtische Region	1	Westdeutschland	1
+9	Bayern	09573	LK Fürth	117853	Fürth	307.42	116193	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	1	Städtische Region	1	Westdeutschland	1
+9	Bayern	09574	LK Nürnberger Land	170792	Nürnberger Land	799.54	169752	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	1	Städtische Region	1	Westdeutschland	1
+9	Bayern	09575	LK Neustadt a.d.Aisch-Bad Windsheim	101014	Neustadt a.d.Aisch-Bad Windsheim	1267.45	99641	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland	1
+9	Bayern	09576	LK Roth	126749	Roth	895.14	126101	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	1	Städtische Region	1	Westdeutschland	1
+9	Bayern	09577	LK Weißenburg-Gunzenhausen	94734	Weißenburg-Gunzenhausen	970.78	94208	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland	1
+9	Bayern	09661	SK Aschaffenburg	71002	Aschaffenburg, Stadt	62.45	69928	41	Kreisfreie Stadt	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	3	Ländliche Region	1	Westdeutschland	1
+9	Bayern	09662	SK Schweinfurt	53426	Schweinfurt, Stadt	35.7	53437	41	Kreisfreie Stadt	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	3	Ländliche Region	1	Westdeutschland	1
+9	Bayern	09663	SK Würzburg	127934	Würzburg, Stadt	87.6	126635	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+9	Bayern	09671	LK Aschaffenburg	174200	Aschaffenburg	698.91	173969	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	3	Ländliche Region	1	Westdeutschland	1
+9	Bayern	09672	LK Bad Kissingen	103235	Bad Kissingen	1136.83	103265	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland	1
+9	Bayern	09673	LK Rhön-Grabfeld	79635	Rhön-Grabfeld	1021.74	79796	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland	1
+9	Bayern	09674	LK Haßberge	84384	Haßberge	956.19	84464	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland	1
+9	Bayern	09675	LK Kitzingen	91155	Kitzingen	684.16	90429	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+9	Bayern	09676	LK Miltenberg	128743	Miltenberg	715.53	128484	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	3	Ländliche Region	1	Westdeutschland	1
+9	Bayern	09677	LK Main-Spessart	126158	Main-Spessart	1321.18	126523	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+9	Bayern	09678	LK Schweinfurt	115445	Schweinfurt	841.4	115105	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	3	Ländliche Region	1	Westdeutschland	1
+9	Bayern	09679	LK Würzburg	162302	Würzburg	968.33	161340	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+9	Bayern	09761	SK Augsburg	296582	Augsburg, Stadt	146.87	292851	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+9	Bayern	09762	SK Kaufbeuren	44398	Kaufbeuren, Stadt	40.02	43478	41	Kreisfreie Stadt	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland	1
+9	Bayern	09763	SK Kempten	69151	Kempten (Allgäu), Stadt	63.28	68330	41	Kreisfreie Stadt	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	2	zentral	3	Ländliche Region	1	Westdeutschland	1
+9	Bayern	09764	SK Memmingen	44100	Memmingen, Stadt	70.11	43470	41	Kreisfreie Stadt	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	3	Ländliche Region	1	Westdeutschland	1
+9	Bayern	09771	LK Aichach-Friedberg	134655	Aichach-Friedberg	780.25	132596	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+9	Bayern	09772	LK Augsburg	253468	Augsburg	1070.61	249838	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+9	Bayern	09773	LK Dillingen a.d.Donau	96562	Dillingen a.d.Donau	792.24	95159	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+9	Bayern	09774	LK Günzburg	127027	Günzburg	762.41	124519	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	3	Ländliche Region	1	Westdeutschland	1
+9	Bayern	09775	LK Neu-Ulm	175204	Neu-Ulm	515.85	172546	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	3	Ländliche Region	1	Westdeutschland	1
+9	Bayern	09776	LK Lindau	81981	Lindau (Bodensee)	323.39	81148	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	3	Ländliche Region	1	Westdeutschland	1
+9	Bayern	09777	LK Ostallgäu	141182	Ostallgäu	1394.46	139278	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland	1
+9	Bayern	09778	LK Unterallgäu	145341	Unterallgäu	1229.58	142544	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland	1
+9	Bayern	09779	LK Donau-Ries	133783	Donau-Ries	1274.56	133043	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland	1
+9	Bayern	09780	LK Oberallgäu	156008	Oberallgäu	1527.98	154568	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland	1
+10	Saarland	10041	LK Stadtverband Saarbrücken	328714	Regionalverband Saarbrücken	410.95	330150	45	Regionalverband	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland	1
+10	Saarland	10042	LK Merzig-Wadern	103243	Merzig-Wadern	556.66	103656	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	1	Städtische Region	1	Westdeutschland	1
+10	Saarland	10043	LK Neunkirchen	131408	Neunkirchen	249.8	133297	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	1	Städtische Region	1	Westdeutschland	1
+10	Saarland	10044	LK Saarlouis	194319	Saarlouis	459.35	195815	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	1	Städtische Region	1	Westdeutschland	1
+10	Saarland	10045	LK Saar-Pfalz-Kreis	142196	Saarpfalz-Kreis	418.28	143402	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	1	Städtische Region	1	Westdeutschland	1
+10	Saarland	10046	LK Sankt Wendel	87007	St. Wendel	476.07	87867	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	1	Städtische Region	1	Westdeutschland	1
+11	Berlin	11001	SK Berlin Mitte	385748	Mitte	39.4	385748	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	2	Ostdeutschland	1
+11	Berlin	11002	SK Berlin Friedrichshain-Kreuzberg	290386	Friedrichshain	20.4	290386	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	2	Ostdeutschland	1
+11	Berlin	11003	SK Berlin Pankow	409335	Pankow	103.22	409335	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	2	Ostdeutschland	1
+11	Berlin	11004	SK Berlin Charlottenburg-Wilmersdorf	343592	Charlottenburg	64.69	343592	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	2	Ostdeutschland	1
+11	Berlin	11005	SK Berlin Spandau	245197	Spandau	91.88	245197	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	2	Ostdeutschland	1
+11	Berlin	11006	SK Berlin Steglitz-Zehlendorf	310071	Steglitz	102.56	310071	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	2	Ostdeutschland	1
+11	Berlin	11007	SK Berlin Tempelhof-Schöneberg	350984	Tempelhof	53.05	350984	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	2	Ostdeutschland	1
+11	Berlin	11008	SK Berlin Neukölln	329917	Neukölln	44.93	329917	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	2	Ostdeutschland	1
+11	Berlin	11009	SK Berlin Treptow-Köpenick	273689	Treptow	167.73	273689	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	2	Ostdeutschland	1
+11	Berlin	11010	SK Berlin Marzahn-Hellersdorf	269967	Marzahn	61.82	269967	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	2	Ostdeutschland	1
+11	Berlin	11011	SK Berlin Lichtenberg	294201	Lichtenberg	52.12	294201	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	2	Ostdeutschland	1
+11	Berlin	11012	SK Berlin Reinickendorf	266408	Reinickendorf	89.32	266408	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	2	Ostdeutschland	1
+12	Brandenburg	12051	SK Brandenburg a.d.Havel	72184	Brandenburg an der Havel, Stadt	229.72	71886	41	Kreisfreie Stadt	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	3	Ländliche Region	2	Ostdeutschland	1
+12	Brandenburg	12052	SK Cottbus	99678	Cottbus, Stadt	165.62	101036	41	Kreisfreie Stadt	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	3	Ländliche Region	2	Ostdeutschland	1
+12	Brandenburg	12053	SK Frankfurt (Oder)	57751	Frankfurt (Oder), Stadt	147.85	58237	41	Kreisfreie Stadt	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	2	Ostdeutschland	1
+12	Brandenburg	12054	SK Potsdam	180334	Potsdam, Stadt	188.26	175710	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	3	Ländliche Region	2	Ostdeutschland	1
+12	Brandenburg	12060	LK Barnim	185244	Barnim	1479.67	180864	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	3	Ländliche Region	2	Ostdeutschland	1
+12	Brandenburg	12061	LK Dahme-Spreewald	170791	Dahme-Spreewald	2274.48	167319	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	2	zentral	3	Ländliche Region	2	Ostdeutschland	1
+12	Brandenburg	12062	LK Elbe-Elster	101827	Elbe-Elster	1899.57	103455	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	4	sehr peripher	3	Ländliche Region	2	Ostdeutschland	1
+12	Brandenburg	12063	LK Havelland	162996	Havelland	1727.29	160710	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	2	zentral	3	Ländliche Region	2	Ostdeutschland	1
+12	Brandenburg	12064	LK Märkisch-Oderland	195751	Märkisch-Oderland	2158.67	192921	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	2	zentral	3	Ländliche Region	2	Ostdeutschland	1
+12	Brandenburg	12065	LK Oberhavel	212914	Oberhavel	1808.16	209893	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	2	zentral	3	Ländliche Region	2	Ostdeutschland	1
+12	Brandenburg	12066	LK Oberspreewald-Lausitz	109371	Oberspreewald-Lausitz	1223.07	111122	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	2	Ostdeutschland	1
+12	Brandenburg	12067	LK Oder-Spree	178803	Oder-Spree	2256.76	178347	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	2	Ostdeutschland	1
+12	Brandenburg	12068	LK Ostprignitz-Ruppin	98861	Ostprignitz-Ruppin	2526.57	99368	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	4	sehr peripher	3	Ländliche Region	2	Ostdeutschland	1
+12	Brandenburg	12069	LK Potsdam-Mittelmark	216566	Potsdam-Mittelmark	2592.06	213214	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	3	Ländliche Region	2	Ostdeutschland	1
+12	Brandenburg	12070	LK Prignitz	76158	Prignitz	2138.56	77263	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	4	sehr peripher	3	Ländliche Region	2	Ostdeutschland	1
+12	Brandenburg	12071	LK Spree-Neiße	113720	Spree-Neiße	1656.97	115456	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	4	sehr peripher	3	Ländliche Region	2	Ostdeutschland	1
+12	Brandenburg	12072	LK Teltow-Fläming	169997	Teltow-Fläming	2104.24	166890	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	2	zentral	3	Ländliche Region	2	Ostdeutschland	1
+12	Brandenburg	12073	LK Uckermark	118947	Uckermark	3076.9	120349	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	4	sehr peripher	3	Ländliche Region	2	Ostdeutschland	1
+13	Mecklenburg-Vorpommern	13003	SK Rostock	209191	Rostock, Stadt	181.36	208409	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	2	zentral	3	Ländliche Region	2	Ostdeutschland	1
+13	Mecklenburg-Vorpommern	13004	SK Schwerin	95653	Schwerin, Stadt	130.52	95797	41	Kreisfreie Stadt	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	3	Ländliche Region	2	Ostdeutschland	1
+13	Mecklenburg-Vorpommern	13071	LK Mecklenburgische Seenplatte	258074	Mecklenburgische Seenplatte	5495.65	260574	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	4	sehr peripher	3	Ländliche Region	2	Ostdeutschland	1
+13	Mecklenburg-Vorpommern	13072	LK Rostock	215794	Landkreis Rostock	3431.28	214635	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	4	sehr peripher	3	Ländliche Region	2	Ostdeutschland	1
+13	Mecklenburg-Vorpommern	13073	LK Vorpommern-Rügen	224702	Vorpommern-Rügen	3214.43	225123	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	4	sehr peripher	3	Ländliche Region	2	Ostdeutschland	1
+13	Mecklenburg-Vorpommern	13074	LK Nordwestmecklenburg	157322	Nordwestmecklenburg	2127.08	156993	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	3	Ländliche Region	2	Ostdeutschland	1
+13	Mecklenburg-Vorpommern	13075	LK Vorpommern-Greifswald	235623	Vorpommern-Greifswald	3945.63	237066	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	4	sehr peripher	3	Ländliche Region	2	Ostdeutschland	1
+13	Mecklenburg-Vorpommern	13076	LK Ludwigslust-Parchim	211779	Ludwigslust-Parchim	4766.76	212522	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	2	Ostdeutschland	1
+14	Sachsen	14511	SK Chemnitz	246334	Chemnitz, Stadt	221.05	246855	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	2	Region mit Verstädterungsansätzen	2	Ostdeutschland	1
+14	Sachsen	14521	LK Erzgebirgskreis	334948	Erzgebirgskreis	1827.89	340373	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	3	peripher	2	Region mit Verstädterungsansätzen	2	Ostdeutschland	1
+14	Sachsen	14522	LK Mittelsachsen	304099	Mittelsachsen	2116.88	308153	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	2	Ostdeutschland	1
+14	Sachsen	14523	LK Vogtlandkreis	225997	Vogtlandkreis	1412.45	229584	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	2	Ostdeutschland	1
+14	Sachsen	14524	LK Zwickau	315002	Zwickau	949.77	319988	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	2	Ostdeutschland	1
+14	Sachsen	14612	SK Dresden	556780	Dresden, Stadt	328.48	551072	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	2	Ostdeutschland	1
+14	Sachsen	14625	LK Bautzen	299758	Bautzen	2395.58	302634	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	3	Ländliche Region	2	Ostdeutschland	1
+14	Sachsen	14626	LK Görlitz	252725	Görlitz	2111.41	256587	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	2	Ostdeutschland	1
+14	Sachsen	14627	LK Meißen	241717	Meißen	1454.58	242862	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	1	Städtische Region	2	Ostdeutschland	1
+14	Sachsen	14628	LK Sächsische Schweiz-Osterzgebirge	245586	Sächsische Schweiz-Osterzgebirge	1654.19	245418	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	1	Städtische Region	2	Ostdeutschland	1
+14	Sachsen	14713	SK Leipzig	593145	Leipzig, Stadt	297.8	581980	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	2	Ostdeutschland	1
+14	Sachsen	14729	LK Leipzig	258139	Leipzig	1651.32	258008	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	1	Städtische Region	2	Ostdeutschland	1
+14	Sachsen	14730	LK Nordsachsen	197741	Nordsachsen	2028.54	197794	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	1	Städtische Region	2	Ostdeutschland	1
+15	Sachsen-Anhalt	15001	SK Dessau-Roßlau	80103	Dessau-Roßlau, Stadt	244.75	82111	41	Kreisfreie Stadt	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	3	Ländliche Region	2	Ostdeutschland	1
+15	Sachsen-Anhalt	15002	SK Halle	238762	Halle (Saale), Stadt	135.02	239173	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	2	Region mit Verstädterungsansätzen	2	Ostdeutschland	1
+15	Sachsen-Anhalt	15003	SK Magdeburg	237565	Magdeburg, Stadt	201.01	238478	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	2	zentral	3	Ländliche Region	2	Ostdeutschland	1
+15	Sachsen-Anhalt	15081	LK Altmarkkreis Salzwedel	83173	Altmarkkreis Salzwedel	2293.03	84457	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	4	sehr peripher	3	Ländliche Region	2	Ostdeutschland	1
+15	Sachsen-Anhalt	15082	LK Anhalt-Bitterfeld	158486	Anhalt-Bitterfeld	1453.52	161264	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	3	Ländliche Region	2	Ostdeutschland	1
+15	Sachsen-Anhalt	15083	LK Börde	170923	Börde	2366.59	172619	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	2	Ostdeutschland	1
+15	Sachsen-Anhalt	15084	LK Burgenlandkreis	178846	Burgenlandkreis	1413.7	181968	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	2	Ostdeutschland	1
+15	Sachsen-Anhalt	15085	LK Harz	213310	Harz	2104.54	216299	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	3	Ländliche Region	2	Ostdeutschland	1
+15	Sachsen-Anhalt	15086	LK Jerichower Land	89589	Jerichower Land	1576.85	90465	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	2	Ostdeutschland	1
+15	Sachsen-Anhalt	15087	LK Mansfeld-Südharz	134942	Mansfeld-Südharz	1448.86	138013	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	2	Ostdeutschland	1
+15	Sachsen-Anhalt	15088	LK Saalekreis	183815	Saalekreis	1433.71	185494	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	2	Ostdeutschland	1
+15	Sachsen-Anhalt	15089	LK Salzlandkreis	189125	Salzlandkreis	1426.85	192739	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	3	Ländliche Region	2	Ostdeutschland	1
+15	Sachsen-Anhalt	15090	LK Stendal	111190	Stendal	2423.25	113186	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	4	sehr peripher	3	Ländliche Region	2	Ostdeutschland	1
+15	Sachsen-Anhalt	15091	LK Wittenberg	124953	Wittenberg	1930.47	126815	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	2	Ostdeutschland	1
+16	Thüringen	16051	SK Erfurt	213981	Erfurt, Stadt	269.91	212988	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	2	Ostdeutschland	1
+16	Thüringen	16052	SK Gera	93125	Gera, Stadt	152.19	94859	41	Kreisfreie Stadt	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	2	Ostdeutschland	1
+16	Thüringen	16053	SK Jena	111343	Jena, Stadt	114.76	111099	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	2	Ostdeutschland	1
+16	Thüringen	16054	SK Suhl	36789	Suhl, Stadt	103.03	35166	41	Kreisfreie Stadt	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	2	Ostdeutschland	1
+16	Thüringen	16055	SK Weimar	65228	Weimar, Stadt	84.48	64426	41	Kreisfreie Stadt	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	2	Ostdeutschland	1
+16	Thüringen	16056	SK Eisenach	42250	Eisenach, Stadt	104.17	42710	41	Kreisfreie Stadt	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	2	Ostdeutschland	1
+16	Thüringen	16061	LK Eichsfeld	100006	Eichsfeld	943.07	100645	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	3	Ländliche Region	2	Ostdeutschland	1
+16	Thüringen	16062	LK Nordhausen	83416	Nordhausen	713.92	84697	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	2	Ostdeutschland	1
+16	Thüringen	16063	LK Wartburgkreis	118974	Wartburgkreis	1307.46	123764	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	2	Ostdeutschland	1
+16	Thüringen	16064	LK Unstrut-Hainich-Kreis	102232	Unstrut-Hainich-Kreis	979.68	103504	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	2	Ostdeutschland	1
+16	Thüringen	16065	LK Kyffhäuserkreis	74212	Kyffhäuserkreis	1037.87	75818	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	4	sehr peripher	3	Ländliche Region	2	Ostdeutschland	1
+16	Thüringen	16066	LK Schmalkalden-Meiningen	124916	Schmalkalden-Meiningen	1210.74	122952	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	2	Ostdeutschland	1
+16	Thüringen	16067	LK Gotha	134908	Gotha	936.08	135521	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	2	Ostdeutschland	1
+16	Thüringen	16068	LK Sömmerda	69427	Sömmerda	806.86	70027	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	2	Ostdeutschland	1
+16	Thüringen	16069	LK Hildburghausen	63197	Hildburghausen	938.43	63923	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	2	Ostdeutschland	1
+16	Thüringen	16070	LK Ilm-Kreis	106249	Ilm-Kreis	843.73	108830	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	2	Ostdeutschland	1
+16	Thüringen	16071	LK Weimarer Land	82156	Weimarer Land	804.49	82131	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	3	peripher	2	Region mit Verstädterungsansätzen	2	Ostdeutschland	1
+16	Thüringen	16072	LK Sonneberg	57717	Sonneberg	433.61	56361	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	2	Ostdeutschland	1
+16	Thüringen	16073	LK Saalfeld-Rudolstadt	103199	Saalfeld-Rudolstadt	1036.02	107368	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	2	Ostdeutschland	1
+16	Thüringen	16074	LK Saale-Holzland-Kreis	82950	Saale-Holzland-Kreis	815.26	82990	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	2	Ostdeutschland	1
+16	Thüringen	16075	LK Saale-Orla-Kreis	80312	Saale-Orla-Kreis	1151.33	81501	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	2	Ostdeutschland	1
+16	Thüringen	16076	LK Greiz	97398	Greiz	845.95	99275	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	3	peripher	2	Region mit Verstädterungsansätzen	2	Ostdeutschland	1
+16	Thüringen	16077	LK Altenburger Land	89393	Altenburger Land	569.44	90650	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	2	Ostdeutschland	1
