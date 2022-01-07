@@ -24,7 +24,7 @@ def groupby_count_desc(df, columns, ascending = False):
     sorted 
     """
     return df.groupby(
-    columns).size().reset_index(name = "count").sort_values(by = "count", ascending = ascending)
+    columns, dropna=False).size().reset_index(name = "count").sort_values(by = "count", ascending = ascending)
 
 def power_bi_type_cast(df):
     type_string = '= Table.TransformColumnTypes(#"Promoted Headers",\n{   \n'
@@ -66,10 +66,10 @@ def power_bi_type_cast(df):
 ## reading data #################################################################################################################
 #################################################################################################################################
 
-data_stringency = pd.read_csv('https://raw.githubusercontent.com/OxCGRT/covid-policy-tracker/master/data/OxCGRT_latest.csv')
+# data_stringency = pd.read_csv('https://raw.githubusercontent.com/OxCGRT/covid-policy-tracker/master/data/OxCGRT_latest.csv')
 data_rki        = pd.read_csv('https://www.arcgis.com/sharing/rest/content/items/f10774f1c63e40168479a1feb6c7ca74/data')
 data_rki.to_csv("source_data_rki.tsv"  , index = False, sep = '\t', encoding='utf-8-sig', line_terminator='\r\n')
-data_mobility   = pd.read_csv('2020_DE_Region_Mobility_Report.csv')
+# data_mobility   = pd.read_csv('2020_DE_Region_Mobility_Report.csv')
 data_bl_mapping = pd.read_csv('IdBundesland_iso.txt', sep = '\t', encoding = 'latin_1')
 data_kreise_cat = pd.read_csv('kreise_category.txt', sep = '\t', encoding = 'latin_1') \
     .assign(
@@ -159,7 +159,8 @@ data_geo = data_rki_agg \
       , validate = '1:1'
     ) \
     .assign(ones = 1) \
-    .drop(columns = ['rs', 'kreis_id', 'krs17'])
+    .drop(columns = ['rs', 'kreis_id', 'krs17'])\
+    .loc[lambda df: df["IdLandkreis"].notna()]
     
 
 min_Datum = min(data_rki_agg.Meldedatum)     
@@ -254,58 +255,58 @@ data_rki_export = df_rki_pk_vars_span \
             'id_bl_time', 'Altersgruppe', 'Alter_Zahl', 'Geschlecht', 
             'Status', 'Anzahl']] \
 
-## mobility data ################################################################################################################  
+# ## mobility data ################################################################################################################  
 
-data_mobility_agg = data_mobility \
-    .merge(
-        data_bl_mapping
-      , how      = 'inner'
-      , on       = 'iso_3166_2_code'
-      , validate = 'm:1'
-    ) \
-    .assign(
-        Datum = lambda x: x.date.apply(lambda v: datetime.datetime.strptime(v, '%Y-%m-%d'))
-    ) \
-    .rename(columns={
-        'retail_and_recreation_percent_change_from_baseline' : 'Einzelhandel und Freizeit'
-      , 'grocery_and_pharmacy_percent_change_from_baseline'  : 'Lebensmittel und Apotheken'
-      , 'parks_percent_change_from_baseline'                 : 'Parks'
-      , 'transit_stations_percent_change_from_baseline'      : 'Öffentliche Verkehrsmittel'
-      , 'workplaces_percent_change_from_baseline'            : 'Arbeitsplatz'
-      , 'residential_percent_change_from_baseline'           : 'Wohnort'
-    }) \
-    .loc[:,[
-        'IdBundesland'
-      , 'sub_region_1'
-      , 'Datum'
-      , 'Einzelhandel und Freizeit'
-      , 'Lebensmittel und Apotheken'
-      , 'Parks'
-      , 'Öffentliche Verkehrsmittel'
-      , 'Arbeitsplatz'
-      , 'Wohnort'
-    ]] \
-    .merge(
-        df_bl_time
-      , on = ['IdBundesland', 'Datum']
-      , validate = '1:1'
-    )
+# data_mobility_agg = data_mobility \
+#     .merge(
+#         data_bl_mapping
+#       , how      = 'inner'
+#       , on       = 'iso_3166_2_code'
+#       , validate = 'm:1'
+#     ) \
+#     .assign(
+#         Datum = lambda x: x.date.apply(lambda v: datetime.datetime.strptime(v, '%Y-%m-%d'))
+#     ) \
+#     .rename(columns={
+#         'retail_and_recreation_percent_change_from_baseline' : 'Einzelhandel und Freizeit'
+#       , 'grocery_and_pharmacy_percent_change_from_baseline'  : 'Lebensmittel und Apotheken'
+#       , 'parks_percent_change_from_baseline'                 : 'Parks'
+#       , 'transit_stations_percent_change_from_baseline'      : 'Öffentliche Verkehrsmittel'
+#       , 'workplaces_percent_change_from_baseline'            : 'Arbeitsplatz'
+#       , 'residential_percent_change_from_baseline'           : 'Wohnort'
+#     }) \
+#     .loc[:,[
+#         'IdBundesland'
+#       , 'sub_region_1'
+#       , 'Datum'
+#       , 'Einzelhandel und Freizeit'
+#       , 'Lebensmittel und Apotheken'
+#       , 'Parks'
+#       , 'Öffentliche Verkehrsmittel'
+#       , 'Arbeitsplatz'
+#       , 'Wohnort'
+#     ]] \
+#     .merge(
+#         df_bl_time
+#       , on = ['IdBundesland', 'Datum']
+#       , validate = '1:1'
+#     )
 
-data_mobility_export = data_mobility_agg
+# data_mobility_export = data_mobility_agg
 
 
-## stringency data ################################################################################################################  
-data_stringency_agg = data_stringency \
-    .loc[lambda df: df.CountryName == 'Germany'] \
-    .assign(
-        Datum = lambda x: x.Date.apply(lambda v: datetime.datetime.strptime(str(v), '%Y%m%d'))
-    ) \
-    .merge(
-        data_time.drop(columns = ['ones'])
-      , on = ['Datum']
-      , validate = '1:1'
-    )
-data_stringency_export = data_stringency_agg
+# ## stringency data ################################################################################################################  
+# data_stringency_agg = data_stringency \
+#     .loc[lambda df: df.CountryName == 'Germany'] \
+#     .assign(
+#         Datum = lambda x: x.Date.apply(lambda v: datetime.datetime.strptime(str(v), '%Y%m%d'))
+#     ) \
+#     .merge(
+#         data_time.drop(columns = ['ones'])
+#       , on = ['Datum']
+#       , validate = '1:1'
+#     )
+# data_stringency_export = data_stringency_agg
 
 #################################################################################################################################
 ## export data ##################################################################################################################
@@ -325,8 +326,8 @@ print('data_rki_export:'       , power_bi_type_cast(data_rki_export       ),data
 print('data_geo_time:'         , power_bi_type_cast(data_geo_time         ),data_geo_time         .shape)
 print('data_time:'             , power_bi_type_cast(data_time             ),data_time             .shape)
 print('data_geo:'              , power_bi_type_cast(data_geo              ),data_geo              .shape)
-print('data_mobility_export:'  , power_bi_type_cast(data_mobility_export  ),data_mobility_export  .shape)
-print('data_stringency_export:', power_bi_type_cast(data_stringency_export),data_stringency_export.shape)
+# print('data_mobility_export:'  , power_bi_type_cast(data_mobility_export  ),data_mobility_export  .shape)
+# print('data_stringency_export:', power_bi_type_cast(data_stringency_export),data_stringency_export.shape)
 
 
 
@@ -335,8 +336,8 @@ data_rki_export.loc[lambda df: (df.Anzahl != 0)].to_csv("data_rki.tsv"       , i
 data_geo_time                                   .to_csv("data_geo_time.tsv"  , index = False, sep = '\t', encoding='utf-8-sig', line_terminator='\r\n')
 data_time                                       .to_csv("data_time.tsv"      , index = False, sep = '\t', encoding='utf-8-sig', line_terminator='\r\n')
 data_geo                                        .to_csv("data_geo.tsv"       , index = False, sep = '\t', encoding='utf-8-sig', line_terminator='\r\n')
-data_mobility_export                            .to_csv("data_mobility.tsv"  , index = False, sep = '\t', encoding='utf-8-sig', line_terminator='\r\n')
-data_stringency_export                          .to_csv("data_stringency.tsv", index = False, sep = '\t', encoding='utf-8-sig', line_terminator='\r\n')
+# data_mobility_export                            .to_csv("data_mobility.tsv"  , index = False, sep = '\t', encoding='utf-8-sig', line_terminator='\r\n')
+# data_stringency_export                          .to_csv("data_stringency.tsv", index = False, sep = '\t', encoding='utf-8-sig', line_terminator='\r\n')
 
 
 # data_rki_agg.loc[
